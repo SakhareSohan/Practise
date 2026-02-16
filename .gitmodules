@@ -1,0 +1,15 @@
+[submodule "backend-js"]
+	path = backend-js
+	url = https://github.com/SakhareSohan/Practise-Backend-JS.git
+[submodule "bookstore"]
+	path = bookstore
+	url = https://github.com/SakhareSohan/Practise-BookStore.git
+[submodule "cpp-playground"]
+	path = cpp-playground
+	url = https://github.com/SakhareSohan/Practise-CPP-Playground.git
+[submodule "fundoo-notes"]
+	path = fundoo-notes
+	url = https://github.com/SakhareSohan/Practise-FundooNotes.git
+[submodule "js-boilerplate"]
+	path = js-boilerplate
+	url = https://github.com/SakhareSohan/Practise-JS-Boilerplate.git
